@@ -12,10 +12,10 @@ export function About() {
         </div>
         <div className="space-y-4 p-5">
           <p className="text-text-primary">
-            I&apos;m <span className="text-primary">Name</span>, a &quot;major&quot; student
-            at the University of South Carolina interested in...
+            I&apos;m <span className="text-primary">Teagan Donnelly</span>, a CS student
+            at the University of South Carolina interested in software development.
           </p>
-          <p className="text-text-secondary">I am looking for...</p>
+          <p className="text-text-secondary">I am looking for an internship in software development.</p>
         </div>
       </article>
       <article className="panel">

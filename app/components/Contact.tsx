@@ -1,20 +1,20 @@
 const contacts = [
   {
     label: "EMAIL",
-    href: "mailto:youremail@email.com",
-    value: "youremail@email.com",
+    href: "mailto:teaganad@email.sc.edu",
+    value: "teaganad@email.sc.edu",
     hint: "mailto",
   },
   {
     label: "LINKEDIN",
-    href: "https://www.linkedin.com/in/your-handle",
-    value: "linkedin.com/in/your-handle",
+    href: "www.linkedin.com/in/teagan-donnelly",
+    value: "www.linkedin.com/in/teagan-donnelly",
     hint: "profile",
   },
   {
     label: "GITHUB",
-    href: "https://github.com/your-handle",
-    value: "github.com/your-handle",
+    href: "https://github.com/teagan-donnelly",
+    value: "https://github.com/teagan-donnelly",
     hint: "repos",
   },
 ] as const;
